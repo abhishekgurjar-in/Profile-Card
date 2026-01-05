@@ -26,7 +26,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/abhishekboadgurjar/Profile-Card.git
+    git clone https://github.com/abhishekgurjarin/Profile-Card.git
     ```
 
 2. **Open the project directory**:
@@ -49,7 +49,7 @@ To get started with the project, follow these steps:
 
 ## Live Demo
 
-You can check out the live demo of the Profile Card project [here](https://abhishekboadgurjar.github.io/Profile-Card/).
+You can check out the live demo of the Profile Card project [here](https://abhishekgurjarin.github.io/Profile-Card/).
 
 
 
@@ -64,5 +64,5 @@ This project was developed as part of my continuous learning journey in front-en
 ## Author
 
 - **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekboadgurjar)
+  - [GitHub Profile](https://github.com/abhishekgurjarin)
 
